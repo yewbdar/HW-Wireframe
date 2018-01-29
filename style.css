@@ -1,0 +1,90 @@
+html, body {
+    height:100%;
+    text-align: center;
+    
+}
+body{
+    background-color: dimgray;
+    color:  dimgray;
+    font-size: 25px;
+    
+}   
+.container{
+    
+      width:70%;
+      position: relative;
+      height: 100%;
+      left: 13%;
+}
+header{
+    background-color: aliceblue;
+    height:10%;
+    position: relative;
+    padding: 20px 0px 0px 0px;
+}
+nav{
+    background-color: aliceblue;
+    position: relative;
+    height:10%;
+    top:15px;
+    padding: 20px 0px 0px 0px;
+}
+.h1h2h3,.p{
+    background-color: aliceblue;
+    position: relative;
+    height:25%;
+    top:20px;
+    width: 75%;
+    left: 10%;
+    color:  dimgray;
+   
+    
+}
+.h1h2h3{
+    margin-top: 40px
+}
+.p{
+    margin-top:15px; 
+}
+
+.section-container{
+    position: relative;
+    height:40%;
+    top:25px;
+}
+section
+{
+    background-color: aliceblue;
+    position: relative;
+    width: 58%;
+    float: left;
+    height: 40%;
+    top: 40px;
+    
+}
+article {
+    background-color: dimgray; 
+    position: relative;
+    height:75%;
+    color: aliceblue;
+    margin:45px 8px 10px 8px
+
+}
+aside{
+    background-color: aliceblue;
+    position: relative;
+    width: 40%;
+    float: right;
+    height: 37.5%;
+    top: 40px;
+    padding: 20px 0px 0px 0px;
+}
+footer{
+    clear: both;
+    background-color: aliceblue;
+    position: relative;
+    height:10%;
+    top:65px;
+    padding: 20px 0px 0px 0px;
+}
+
